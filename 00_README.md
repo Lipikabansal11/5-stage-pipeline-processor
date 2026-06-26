@@ -1,4 +1,4 @@
-# 5-stage-pipeline-processor
+
 # 5-Stage Pipelined RISC-V Processor
 
 ## Project Overview
