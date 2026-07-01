@@ -14,3 +14,4 @@ module ALU_Decoder(ALUOp,funct3,funct7,op,ALUControl);
                         ((ALUOp == 2'b10) & (funct3 == 3'b111)) ? 3'b010 : 
                                                                   3'b000 ;
 endmodule
+//
